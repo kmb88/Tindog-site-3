@@ -88,3 +88,48 @@ margin-bottom: 1rem;
   width: 15%;
   margin: 20px 20px 50px;
 }
+.carousel-item{
+  padding:7% 15%;
+}
+/* pricing section */
+#pricing{
+  padding:100px;
+    text-align: center;
+}
+.pricing-column {
+  padding: 3% 2%;
+
+}
+
+@media(max-width:1028px){
+#title{
+  text-align: center;
+}
+  .leo{
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+#cta{
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+}
+.cta-heading{
+    font-size: 3.5rem;
+  line-height: 1.5;
+}
+#footer{
+  background-color: #fff;
+  padding:5% 10%;
+  text-align: center;
+  line-height: 2;
+}
+.Copyright{
+  text-align: center;
+}
+.social-icon{
+  margin:20px 10px;
+}
